@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋, my name is Boris Badenov
 
 <!--
 **boris-badenov/boris-badenov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
